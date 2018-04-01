@@ -1,0 +1,14 @@
+.button {
+    -fx-background-radius: 1em;
+    -fx-padding: 10px;
+    -fx-font: 24 arial;
+}
+
+.text-field {
+    -fx-background-radius: 1em;
+}
+.button:buy {
+    -fx-background-color: red;
+
+}
+
